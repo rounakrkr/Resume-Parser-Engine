@@ -15,10 +15,12 @@ A robust, pure-Python data extraction pipeline that converts unstructured PDF re
 - **Text Processing:** Regular Expressions (re), JSON, CSV
 
 ## 📁 Repository Structure
+
 /Resume-Parser-Engine
-  ├── /resumes                 # Directory for input PDFs (dummy resumes are provided)
+  ├── /resumes                 # Directory for input PDFs (Ignored in Git)
   ├── main.py                  # Core parsing engine
   ├── requirements.txt         # Dependencies
+  ├── .gitignore               # Ignored files
   └── README.md                # Documentation
 
 
